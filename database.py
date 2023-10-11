@@ -43,6 +43,13 @@ user = {
     "country": "Austria" 
 }
 
+wael = {
+    "name": "Wael Rteil",
+    "email": "wmd06@gamil.com", "phone": "70615776",
+    "address": "Barbir, Gold Street",
+    "country": "Lebanon" 
+}
+
 def get_users(): 
     users = []
     try:
