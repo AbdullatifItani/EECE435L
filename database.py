@@ -114,7 +114,7 @@ def delete_user(user_id):
         conn.close() 
     return message
 
-create_db_table()
+#create_db_table()
 #insert_user(user)
 #print(get_users())
 #get_user_by_id(user_id)
